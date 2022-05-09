@@ -1,0 +1,24 @@
+.review-section{
+    padding-top: 20px;
+}
+
+.review-container{
+    position: relative;
+    display: grid;
+    place-items: center;
+    color: #000000;
+}
+.review-card{
+    padding: 8px 8px 8px 10px;
+    max-width: 310px;
+    max-height: 195px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    background-color: rgba(255,255,255,0.13);
+}
+
+.review-card-text{
+    text-align: left;
+}
+
